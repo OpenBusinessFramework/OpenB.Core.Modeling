@@ -1,7 +1,0 @@
-F:\Projects\OpenB\OpenB.Core\OpenB.Modelling\obj\Debug\OpenB.Core.Modeling.csprojResolveAssemblyReference.cache
-F:\Projects\OpenB\OpenB.Core.Modeling\OpenB.Core.Modeling\obj\Debug\OpenB.Core.Modeling.csprojResolveAssemblyReference.cache
-F:\Projects\OpenB\OpenB.Core.Modeling\OpenB.Core.Modeling\bin\Debug\OpenB.Core.Modeling.dll
-F:\Projects\OpenB\OpenB.Core.Modeling\OpenB.Core.Modeling\bin\Debug\OpenB.Core.Modeling.pdb
-F:\Projects\OpenB\OpenB.Core.Modeling\OpenB.Core.Modeling\bin\Debug\OpenB.CodeGenerator.Core.dll
-F:\Projects\OpenB\OpenB.Core.Modeling\OpenB.Core.Modeling\obj\Debug\OpenB.Core.Modeling.dll
-F:\Projects\OpenB\OpenB.Core.Modeling\OpenB.Core.Modeling\obj\Debug\OpenB.Core.Modeling.pdb
