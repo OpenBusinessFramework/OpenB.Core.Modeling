@@ -1,0 +1,5 @@
+F:\Projects\OpenB\OpenB.CodeGenerator\OpenB.Modelling\bin\Debug\OpenB.Modelling.dll
+F:\Projects\OpenB\OpenB.CodeGenerator\OpenB.Modelling\bin\Debug\OpenB.Modelling.pdb
+F:\Projects\OpenB\OpenB.CodeGenerator\OpenB.Modelling\obj\Debug\OpenB.Modelling.csprojResolveAssemblyReference.cache
+F:\Projects\OpenB\OpenB.CodeGenerator\OpenB.Modelling\obj\Debug\OpenB.Modelling.dll
+F:\Projects\OpenB\OpenB.CodeGenerator\OpenB.Modelling\obj\Debug\OpenB.Modelling.pdb
